@@ -2,7 +2,7 @@ import mysql.connector
 
 cursor = ''
 # Conectar ao seu banco de dados #
-con = mysql.connector.connect(host='localhost', database='python', user='root', password='root')
+con = mysql.connector.connect(host='localhost', database='python', user='root', password='Sua senha')
 
 if con.is_connected():   # para saber se vc esta conectado #
     db_info = con.get_server_info()   # para pegar a versão do servidor #
