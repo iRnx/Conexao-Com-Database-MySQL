@@ -1,2 +1,2 @@
 # Conexao-Com-Database-MySQL
-Pegando a versão do servidor e abrindo e fechando Conexão
+Pegando a versão do servidor e abrindo e fechando Conexão.
